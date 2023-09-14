@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.24.0"
-    // Add other dependencies here
+    
   },
   "bugs": {
     "url": "https://github.com/liambailey131/EEE/issues"
