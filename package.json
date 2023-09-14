@@ -1,0 +1,28 @@
+{
+  "name": "monday-api",
+  "version": "1.0.0",
+  "description": "A node.js application that fetches data from monday.com and generates an excel report",
+  "main": "graphQLEEE.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liambailey131/EEE.git"
+  },
+  "keywords": [
+    "exporting",
+    "project",
+    "management"
+  ],,
+  "author": "Liam Bailey",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0"
+    // Add other dependencies here
+  },
+  "bugs": {
+    "url": "https://github.com/liambailey131/EEE/issues"
+  },
+  "homepage": "https://github.com/liambailey131/EEE#readme"
+}
