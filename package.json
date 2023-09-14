@@ -14,7 +14,7 @@
     "exporting",
     "project",
     "management"
-  ],,
+  ],
   "author": "Liam Bailey",
   "license": "MIT",
   "dependencies": {
